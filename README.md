@@ -28,20 +28,17 @@ Ball N Plate Control System Design
 - [7. References](#7-References)
 
 ## 1. Introduction 
-The purpose of this project is to incorporate everything we have learned from this past semester 
-in order to create a real life example of a working control system.
-The system consists of a plate which can be tilted by two servo motors or electric motors
-in two different angular orientations together with a ball rolling around on top of the plate.
-The goal was to design a controls system that allows the user to put a ball anywhere on the plate and have the servo motors 
-position the ball in the center of the plate.
+
+A controller for a ball and plate system that is being designed by matlab, simulink, and coppelia. The system is to keep a ball balanced at the center of the plate and must react accroding to the balls position to avoid the ball falling from the plate.
 
 ## 2. System Requirements
 
-The System Requirements of this project....
+The System requirements are the parameters for our system it consisting of 
+![System Requirements](images/system requirements.PNG)
 
 ## 3. Mathematical Model
 
-The Mathematical Model of the system is defnined....
+The Ball and Plate system being ised os represented in figure 1. The non lineas equation is re
 
 ## 4. Simulink
 
